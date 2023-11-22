@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+.input-fl {
+    text-align: center;
+    /* padding: 20px 0 100px 0; */
+}
+.but-fl{
+    text-align: center;
+}
+.input-fl button{
+    background-color: orange;
+}
+.edit{
+    width: 100px;
+    background-color: green;
+}
+.delet{
+    width: 100px;
+    background-color: red;
+}

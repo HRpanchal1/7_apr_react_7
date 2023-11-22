@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Functioncompointro = (props) => {
+const Functioncompointro = (e) => {
     return (
         <>
             <h1>Functioncompointro</h1>
-            <p>{props.data}</p>
+            <p>{e.data}</p>
 
         </>
     )
